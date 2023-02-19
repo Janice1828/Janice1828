@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Janice1828
-- 👀 I’m interested in front end website development
-- 🌱 I’m currently learning front end and backend website development 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Jan:&nbsp;</h1><h2>Ice</h2>
+    
 
-- 📫 How to reach me: you can mail me at jenish1389@gmail.com
-
-<!---
-Janice1828/Janice1828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</body>
+</html>
