@@ -8,7 +8,7 @@
 </head>
 <body>
     <div style="display:flex;">
-    <h1>Jan:&nbsp;</h1><h2>Ice</h2>
+    <h1>Jan&nbsp;</h1><h1>Ice</h1>
     </div>
 
 </body>
