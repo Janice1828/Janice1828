@@ -13,3 +13,11 @@
 
 </body>
 </html>
+<style>
+body{
+background:red;
+    color:#fff;
+    opacity:0.2;
+    }
+
+</style>
