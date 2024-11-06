@@ -24,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janice1828&show_icons=true&locale=en" alt="janice1828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janice1828&" alt="janice1828" /></p>
-- [![An image of @janice1828's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janice1828)](https://holopin.io/@janice1828)
+
+- 
+-  [![An image of @janice1828's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janice1828)](https://holopin.io/@janice1828)
