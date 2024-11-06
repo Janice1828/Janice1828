@@ -1,6 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=ueJx2hLXSJ3fP0gOjO2tOwJzMMLyi1cwpea2zwxoI_g)]
-<h1 align="center">Hi 👋, I'm Jenish Limbu</h1>
-<h3 align="center">An Evolving Programmer/Developer</h3>
+<h1 align="center">Hi , I'm Jenish</h1>
+<h3 align="center">An Evolver</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=ueJx2hLXSJ3fP0gOjO2tOwJzMMLyi1cwpea2zwxoI_g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janice1828&label=Profile%20views&color=0e75b6&style=flat" alt="janice1828" /> </p>
 
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janice1828&show_icons=true&locale=en" alt="janice1828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janice1828&" alt="janice1828" /></p>
+[![An image of @janice1828's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janice1828)](https://holopin.io/@janice1828)
