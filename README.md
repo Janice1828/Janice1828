@@ -3,11 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=ueJx2hLXSJ3fP0gOjO2tOwJzMMLyi1cwpea2zwxoI_g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janice1828&label=Profile%20views&color=0e75b6&style=flat" alt="janice1828" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Next, Node, Express**
+- 🌱 I’m currently learning Software Engineering, Bug Bounty Hunting**
 
-- 👨‍💻 All of my projects are available at [jenishlimbu.com.np](jenishlimbu.com.np)
-
-- 💬 Ask me about **React, JavaScript, Front End Development**
+- 💬 Ask me about **React, JavaScript,Node.js , Express.js, PostgreSQL ,Front End Development, Back End Development**
 
 - 📫 How to reach me **jlimbu539@gmail.com**
 
